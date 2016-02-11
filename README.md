@@ -1,5 +1,5 @@
 # PyQt_classes
-some usefull classes for PyQt4 scripts
+This repository includes some usefull classes for PyQt4 scripts.
 
 LM_DoubleSpinbox_with_simple_calc.py 
 ---------------------------------------
